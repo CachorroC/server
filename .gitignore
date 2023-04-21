@@ -1,0 +1,7 @@
+actuaciones
+
+actuaciones/*
+
+**/*.json
+
+node_modules
